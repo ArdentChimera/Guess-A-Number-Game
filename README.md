@@ -2,4 +2,4 @@
 Would you like to play a game?
 
 
-Try it in Repl: https://replit.com/@ArdentChimera/Guess-A-Number-Game?v=1
+Try it in Replit: https://replit.com/@ArdentChimera/Guess-A-Number-Game?v=1
